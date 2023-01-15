@@ -10,3 +10,5 @@ git is free software distributed under the GPL.
 git has a mutable index called stage.
 
 Git tracks changes of files.
+
+添加了新的for
